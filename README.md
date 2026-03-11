@@ -1,7 +1,7 @@
 ### Привет!
 
 Я фронтенд-разработчик из Москвы.
-- Связаться со мной: [Telegram](https://t.me/sasxaxaxaxa) | [Email](mailto:simsaaav@mail.ru)
+Связаться со мной: [Telegram](https://t.me/sasxaxaxaxa) | [Email](mailto:simsaaav@mail.ru)
 
 ---
 
